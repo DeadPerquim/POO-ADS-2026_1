@@ -1,0 +1,31 @@
+Carregador
+
+atributos:
+-Ele é branco
+-Ele tem entrada USB
+-Ele tem informações descritas nele
+
+metodos:
+-Pode conectar um Cabo
+-Pode conectar a tomada
+-Pode jogar para cima.
+
+
+Mouse gamer
+
+Atributos:
+-Ele é Preto
+-Ele tem LED colorido
+-Ele tem botões
+-Ele tem sensor
+-Possui cabo com entrada USB
+-Possui botão para alterar DPI
+
+Metodos:
+-É possivel clicar nos botões botões
+-É possível conectar num outro dispositivo eletrônico
+-É possível alterar o DPI do mouse através do botão
+
+
+
+
