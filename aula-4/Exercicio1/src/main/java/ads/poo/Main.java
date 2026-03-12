@@ -19,7 +19,6 @@ public class Main {
 
 
 
-
 //
 //        Lampada a = new Lampada();
 //        Lampada b = new Lampada();
